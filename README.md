@@ -30,3 +30,9 @@ cd ios; bundle install; bundle exec pod install; cd ..
 yarn ios
 ```
 
+# App Design
+
+https://www.figma.com/design/nHFC8YajXXsAsD1oZ2RPAX/Zoocasa-Frontend-Test-Design?node-id=0-1&t=RBfPXCOwojZmhXDP-1
+
+> [!TIP]
+> Create a Figma account before so you can save time during the test as this will give you access to see the design and collaborate.
