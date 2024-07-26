@@ -19,7 +19,7 @@ function App(): React.JSX.Element {
           <Text style={styles.heading}>
             Welcome to Zoocasa's Frontend Coding Test
           </Text>
-          <Image source={data[0].imageUrl} style={styles.image} />
+          <Image source={{uri: data[0].imageUrl}} style={styles.image} />
         </View>
       </ScrollView>
     </SafeAreaView>
